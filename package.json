@@ -1,0 +1,19 @@
+{
+  "name": "shard-assign",
+  "version": "0.1.0",
+  "description": "shard-assign",
+  "main": "assign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robskillington/shard-assign.git"
+  },
+  "author": "Rob Skillington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robskillington/shard-assign/issues"
+  },
+  "homepage": "https://github.com/robskillington/shard-assign#readme"
+}
